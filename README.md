@@ -1,4 +1,4 @@
-# 🛡️ PortSwigger Web Security Academy — Write-ups
+# 🛡️ PortSwigger Web Security Academy Write-ups
 
 ![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)
 ![Labs Solved](https://img.shields.io/badge/labs%20solved-4-blue)
@@ -36,7 +36,7 @@ Each write-up follows a consistent structure so findings are easy to scan and co
 
 ## 📂 Index
 
-Write-ups are organized by vulnerability category — one folder per category, one file per lab.
+Write-ups are organized by vulnerability category, one folder per category, one file per lab.
 
 ### SQL Injection
 ### Cross-Site Scripting (XSS)
