@@ -27,9 +27,9 @@ Cross-Site Scripting vulnerabilities arise when an application includes untruste
 
 ## 🔑 Recurring Fixes
 
-- Context-appropriate output encoding (HTML entity encoding, JS string escaping, URL encoding — matched to where the input lands)
+- Context-appropriate output encoding (HTML entity encoding, JS string escaping, URL encoding matched to where the input lands)
 - A strict Content-Security-Policy as defense-in-depth
-- Never trust that "sanitized on input" is enough — encode on output, at render time
+- Never trust that "sanitized on input" is enough encode on output, at render time
 
 ---
 
