@@ -4,7 +4,7 @@
 ![Labs Solved](https://img.shields.io/badge/labs%20solved-4-blue)
 ![Platform](https://img.shields.io/badge/platform-PortSwigger-orange)
 
-Personal write-ups from solving labs on [PortSwigger's Web Security Academy](https://portswigger.net/web-security) — documenting the approach, root-cause vulnerability, and exploitation technique for each challenge as I work through them.
+Personal write-ups from solving labs on [PortSwigger's Web Security Academy](https://portswigger.net/web-security) documenting the approach, root-cause vulnerability, and exploitation technique for each challenge as I work through them.
 
 ---
 
